@@ -28,7 +28,7 @@ You can view the project layout through the links below:
 
 - [Layout](#)
 
-Remembering that you need to have a [Figma](https://www.figma.com/file/lEUH0oFfBvcSX9UIe6VsU7/RocketCard?node-id=16%3A2) account to access it.
+Remembering that you need to have a [Figma](https://www.figma.com/file/lEUH0oFfBvcSX9UIe6VsU7/RocketCard/duplicate) account to access it.
 
 ## 📝 License
 
