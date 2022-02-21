@@ -20,7 +20,7 @@ This project was developed using the following technologies:
 
 - HTML
 - CSS
-- [VanilaTilt.js](https://micku7zu.github.io/vanilla-tilt.js/)
+- [VanillaTilt.js](https://micku7zu.github.io/vanilla-tilt.js/)
 
 ## 🔖 Layout
 
