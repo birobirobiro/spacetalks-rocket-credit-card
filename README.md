@@ -32,7 +32,7 @@ Remembering that you need to have a [Figma](https://www.figma.com/file/lEUH0oFfB
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/birobirobiro/spacetalks-rocket-credit-card/blob/main/LICENSE) file for details.
 
 ---
 
